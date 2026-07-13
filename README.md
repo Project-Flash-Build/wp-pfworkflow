@@ -14,4 +14,4 @@ Available for evaluation, purchase and licensing at **[project-flash.com](https:
 
 ---
 
-Project Flash™, WP-PFWorkflow™, WP-PFManagement™ and WP-PFAgent™ are trademarks of Project Flash.
+Setyenv™, WP-PFWorkflow™, WP-PFManagement™ and WP-PFAgent™ are trademarks of Setyenv.
