@@ -54,7 +54,7 @@ Workflows react to what actually happens on your WordPress:
 
 ### Reach your own machine
 
-When a step needs host-side work — shell, files, outbound HTTP — WP-PFWorkflow hands it to the open-source **[wp-executor](https://github.com/setyenv/wp-executor)** runner over an HMAC-signed job queue, executed on hardware you control under a capability allowlist you define.
+When a step needs host-side work — shell, files, outbound HTTP — WP-PFWorkflow hands it to the open-source **[wp-executor](https://github.com/setyenv/wp-executor)** runner over an HMAC-signed job queue, executed on hardware you control under a capability and egress allowlist you define.
 
 <p align="center">
   <img src="assets/screens/executor.png" alt="WP-PFWorkflow handing host-side work to wp-executor" width="880" />
